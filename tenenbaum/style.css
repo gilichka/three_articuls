@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color:blanchedalmond;
+}
+
+img {
+width: 100%;
+margin: 0 auto;
+}
+
+.section_one {
+    display: flex;
+}
+
+.a {
+    width: 48&;
+}}
