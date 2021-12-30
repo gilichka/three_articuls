@@ -1,0 +1,132 @@
+body {
+    background-color: black;
+    color:rgb(224, 224, 224);
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    position: fixed;
+    font-size: 24px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.left_header {
+    width: 18%;
+}
+
+.middle_header {
+    width: 67%;
+}
+
+.right_header {
+    width: 15%;
+}
+
+img {
+width: 100%;
+margin: 0 auto;
+}
+
+.opening {
+    display: flex;
+    width: 85%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.left {
+    width: 33%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wheel {
+    width: 33%;
+}
+
+.headline {
+    width: 66%;
+}
+
+.right {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.m {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 15px 0px;
+}
+
+.margot {
+    width: 33%;
+    font-family: brandon-grotesque, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.img_margot {
+    width: 66%;
+    background-color: white;
+    padding: 60px 15px;
+}
+
+.b {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    margin: 15px 0px;
+}
+
+.img_beth {
+    width: 66%;
+    background-color: white;
+    padding: 60px 15px;
+}
+
+.beth {
+    width: 20%;
+    font-family: brandon-grotesque, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.n {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    margin: 15px 0px;
+}
+
+.no {
+    width: 33%;
+    font-family: brandon-grotesque, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.img_tilda {
+    width: 66%;
+    background-color: white;
+    padding: 60px 15px;
+}
+
+h2 h1 {
+    font-family: ohno-fatface, serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 40px;
+}
+
